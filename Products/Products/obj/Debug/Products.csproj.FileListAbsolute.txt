@@ -1,0 +1,13 @@
+C:\Users\2283429\AppDevLab6\Products\Products\bin\Debug\ProductDB.mdf
+C:\Users\2283429\AppDevLab6\Products\Products\bin\Debug\ProductDB_log.ldf
+C:\Users\2283429\AppDevLab6\Products\Products\bin\Debug\Products.exe.config
+C:\Users\2283429\AppDevLab6\Products\Products\bin\Debug\Products.exe
+C:\Users\2283429\AppDevLab6\Products\Products\bin\Debug\Products.pdb
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.csproj.AssemblyReference.cache
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.csproj.SuggestedBindingRedirects.cache
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.ProductsForm.resources
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.exe
+C:\Users\2283429\AppDevLab6\Products\Products\obj\Debug\Products.pdb
