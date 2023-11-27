@@ -1,0 +1,13 @@
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\bin\Debug\ProductDB.mdf
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\bin\Debug\ProductDB_log.ldf
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\bin\Debug\Product Lookup.exe.config
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\bin\Debug\Product Lookup.exe
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\bin\Debug\Product Lookup.pdb
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.AssemblyReference.cache
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.SuggestedBindingRedirects.cache
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product_Lookup.LookupForm.resources
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.GenerateResource.cache
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.CoreCompileInputs.cache
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product Lookup.exe
+C:\Users\2283429\AppDevLab6\Product Lookup\Product Lookup\obj\Debug\Product Lookup.pdb
