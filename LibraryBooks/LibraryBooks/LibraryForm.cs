@@ -16,5 +16,20 @@ namespace LibraryBooks
         {
             InitializeComponent();
         }
+
+        private void bookBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.bookBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.bookDataSet);
+
+        }
+
+        private void LibraryForm_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'bookDataSet.Book' table. You can move, or remove it, as needed.
+            this.bookTableAdapter.Fill(this.bookDataSet.Book);
+
+        }
     }
 }
