@@ -21,15 +21,36 @@ namespace LibraryBooks
         {
             this.Validate();
             this.bookBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.bookDataSet);
+            try
+            {
+                
+                this.tableAdapterManager.UpdateAll(this.bookDataSet);
+                MessageBox.Show("Changes saved successfully.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
 
         private void LibraryForm_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'bookDataSet.Book' table. You can move, or remove it, as needed.
-            this.bookTableAdapter.Fill(this.bookDataSet.Book);
+            try
+            {
+                this.bookTableAdapter.Fill(this.bookDataSet.Book);
 
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void bindingNavigatorDeleteItem_Click(object sender, EventArgs e)
+        {
+            this.bookBindingSource.RemoveCurrent();
+            this.bookBindingNavigatorSaveItem.PerformClick();
         }
     }
 }
